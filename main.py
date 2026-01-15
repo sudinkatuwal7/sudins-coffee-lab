@@ -1,3 +1,5 @@
+from art import logo
+
 MENU = {
     "espresso": {
         "ingredients": {
@@ -32,6 +34,7 @@ resources = {
 
 profit = 0
 
+print(logo)
 
 def check_resources(choice, resources_a):
     ingredients = MENU[choice]["ingredients"]
