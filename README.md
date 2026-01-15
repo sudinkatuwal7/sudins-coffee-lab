@@ -1,4 +1,4 @@
-# Sudin's Barista Bot ☕🤖
+# Sudin's Coffee Lab ☕🤖
 
 A fun **Python command-line coffee machine project** by Sudin — brew, sip, and code!  
 
