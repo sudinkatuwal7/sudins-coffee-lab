@@ -28,3 +28,14 @@ Here is $0.5 in change.
 Here is your latte ☕️. Enjoy!
 ```
 
+## Folder Structure
+
+```
+sudins-barista-bot/
+│
+├── main.py            # The main program
+├── art.py             # Contains logos or ASCII art
+├── README.md
+└── duplicate_main.py  # Contains clean code (can be ignored)
+```
+
